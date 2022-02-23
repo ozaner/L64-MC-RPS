@@ -32,7 +32,7 @@ Note that packs are listed in reverse order (i.e. Compliance 32x is on the botto
 - [Lily Pad Alternatives](https://compliancepack.net/addons/lily-pad-plus)
 - [Bushy Leaves](https://www.curseforge.com/minecraft/texture-packs/bushy-leaves-add-on-for-faithful-32x)
 - [Sakura](https://www.planetminecraft.com/texture-pack/sakura-for-faithful-32x/)
-- [Bushy Sakura Compatibility](/Bushy Sakura Compatibility/)
+- [Bushy Sakura Compatibility](/Bushy%20Sakura%20Compatibility/)
 
 #### Rock/Terrain
 - [Deepslate Ore Tops](https://compliancepack.net/addons/deepslate-ore-top-textures)
@@ -56,4 +56,4 @@ Note that packs are listed in reverse order (i.e. Compliance 32x is on the botto
 - [Mudkip Blue Axolotl](https://alexeykrainev.ghost.io/mudkip-blue/)
 
 ### Misc. Addons
-- [L64 Faithful Addon](/L64 Faithful Addon/)
+- [L64 Faithful Addon](/L64%20Faithful%20Addon/)
